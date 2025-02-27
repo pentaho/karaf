@@ -36,7 +36,7 @@
             <dependency>
                 <groupId>org.apache.karaf.shell</groupId>
                 <artifactId>org.apache.karaf.shell.core</artifactId>
-                <version>@karaf.project@</version>
+                <version>@karaf.project.version@</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

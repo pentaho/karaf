@@ -65,7 +65,7 @@ Packagings
 
 +---+
             <plugin>
-                <groupId>org.apache.karaf.tooling</groupId>
+                <groupId>org.hitachivantara.karaf.tooling</groupId>
                 <artifactId>karaf-maven-plugin</artifactId>
                 <configuration>
                     <startLevel>50</startLevel>
@@ -178,7 +178,7 @@ Packagings
 
 +---+
             <plugin>
-                <groupId>org.apache.karaf.tooling</groupId>
+                <groupId>org.hitachivantara.karaf.tooling</groupId>
                 <artifactId>karaf-maven-plugin</artifactId>
                 <configuration>
                     <defaultStartLevel>50</defaultStartLevel>
