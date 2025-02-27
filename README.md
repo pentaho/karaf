@@ -48,6 +48,7 @@ It provides turnkey features that you can directly leverage without effort, pack
 ## Getting Started
 
 For an Apache Karaf source distribution, please read [BUILDING.md](https://github.com/apache/karaf/blob/main/BUILDING.md) for instructions on building Apache Karaf.
+(**NOTE: To successfull run all tests, you must be on a *nix env (tested on Ubuntu) with Java 17 installed and in your PATH)
 
 For an Apache Karaf binary distribution, please read [RELEASE-NOTES.md](https://github.com/apache/karaf/blob/main/RELEASE-NOTES.md) for installation instructions and list of supported
 and unsupported features.
