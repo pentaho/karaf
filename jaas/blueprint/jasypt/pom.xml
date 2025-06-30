@@ -24,7 +24,7 @@
     <parent>
         <groupId>org.hitachivantara.karaf.jaas.blueprint</groupId>
         <artifactId>blueprint</artifactId>
-        <version>4.4.6-2025.06.11</version>
+        <version>4.4.6-2025.07.01</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -36,7 +36,7 @@
 
     <properties>
         <appendedResourcesDirectory>${basedir}/../../etc/appended-resources</appendedResourcesDirectory>
-        <pentaho-apache-karaf.version>4.4.6-2025.06.11</pentaho-apache-karaf.version>
+        <pentaho-apache-karaf.version>4.4.6-2025.07.01</pentaho-apache-karaf.version>
     </properties>
 
     <dependencyManagement>

@@ -32,6 +32,7 @@ Version | Date | Changes
 4.4.6-2025.03.31 | 3/31/2025 | Upgraded Jetty to 9.4.57.v20241219 ([PPP-5585](https://hv-eng.atlassian.net/browse/PPP-5585))
 4.4.6-2025.04.04 | 4/04/2025 | Upgraded Camel to 3.22.4 ([PPP-5635](https://hv-eng.atlassian.net/browse/PPP-5635))
 4.4.6-2025.06.11 | 6/11/2025 | Upgraded Pax Web to 8.0.32 ([PPP-5709](https://hv-eng.atlassian.net/browse/PPP-5709))
+4.4.6-2025.07.01 | 7/01/2025 | Upgraded Commons BeanUtils to 1.11.0 ([PPP-5731](https://hv-eng.atlassian.net/browse/PPP-5731))
 
 ## Vulnerabilities addressed by Pentaho after the fork:
 

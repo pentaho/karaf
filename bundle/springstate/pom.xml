@@ -24,7 +24,7 @@
     <parent>
         <groupId>org.hitachivantara.karaf.bundle</groupId>
         <artifactId>bundle</artifactId>
-        <version>4.4.6-2025.06.11</version>
+        <version>4.4.6-2025.07.01</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
