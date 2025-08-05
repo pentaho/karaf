@@ -24,13 +24,13 @@
     <parent>
         <groupId>org.hitachivantara.karaf.tooling</groupId>
         <artifactId>tooling</artifactId>
-        <version>4.4.6-2025.07.01</version>
+        <version>4.4.6-2025.08.05</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
     <groupId>org.hitachivantara.karaf.tooling</groupId>
     <artifactId>karaf-maven-plugin</artifactId>
-    <version>4.4.6-2025.07.01</version>
+    <version>4.4.6-2025.08.05</version>
     <packaging>maven-plugin</packaging>
     <name>Apache Karaf :: Tooling :: Maven Karaf Plugin</name>
 
