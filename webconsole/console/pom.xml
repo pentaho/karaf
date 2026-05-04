@@ -24,7 +24,7 @@
     <parent>
         <groupId>org.apache.karaf.webconsole</groupId>
         <artifactId>webconsole</artifactId>
-        <version>4.4.6-2025.11.19</version>
+        <version>4.4.6-2026.05.04</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -35,7 +35,7 @@
 
     <properties>
         <appendedResourcesDirectory>${project.basedir}/../../etc/appended-resources</appendedResourcesDirectory>
-        <pentaho-apache-karaf.version>4.4.6-2025.11.19</pentaho-apache-karaf.version>
+        <pentaho-apache-karaf.version>4.4.6-2026.05.04</pentaho-apache-karaf.version>
     </properties>
 
     <dependencyManagement>

@@ -35,6 +35,7 @@ Version | Date | Changes
 4.4.6-2025.07.01 | 7/01/2025 | Upgraded Commons BeanUtils to 1.11.0 ([PPP-5731](https://hv-eng.atlassian.net/browse/PPP-5731))
 4.4.6-2025.08.05 | 8/05/2025 | Upgraded Commons FileUpload to 1.6.0 ([PPP-5769](https://hv-eng.atlassian.net/browse/PPP-5769))
 4.4.6-2025.11.19 | 11/19/2025 | Upgraded cxf to 3.6.8 ([PPP-5863](https://hv-eng.atlassian.net/browse/PPP-5863))
+4.4.6-2026.05.04 | 5/04/2026 | Upgraded Bouncy Castle to 1.84 ([PPP-6390](https://hv-eng.atlassian.net/browse/PPP-6390),[PPP-6391](https://hv-eng.atlassian.net/browse/PPP-6391))
 
 ## Vulnerabilities addressed by Pentaho after the fork:
 

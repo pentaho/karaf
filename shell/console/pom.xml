@@ -24,7 +24,7 @@
     <parent>
         <groupId>org.hitachivantara.karaf.shell</groupId>
         <artifactId>shell</artifactId>
-        <version>4.4.6-2025.11.19</version>
+        <version>4.4.6-2026.05.04</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -35,7 +35,7 @@
 
     <properties>
         <appendedResourcesDirectory>${basedir}/../../etc/appended-resources</appendedResourcesDirectory>
-        <pentaho-apache-karaf.version>4.4.6-2025.11.19</pentaho-apache-karaf.version>
+        <pentaho-apache-karaf.version>4.4.6-2026.05.04</pentaho-apache-karaf.version>
     </properties>
 
     <dependencyManagement>

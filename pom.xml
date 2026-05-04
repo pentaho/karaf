@@ -31,7 +31,7 @@
     <groupId>org.hitachivantara.karaf</groupId>
     <artifactId>karaf</artifactId>
     <packaging>pom</packaging>
-    <version>4.4.6-2025.11.19</version>
+    <version>4.4.6-2026.05.04</version>
     <name>Apache Karaf</name>
     <inceptionYear>2007</inceptionYear>
 
@@ -84,7 +84,7 @@
         <connection>${scm.connection}</connection>
         <developerConnection>${scm.developerConnection}</developerConnection>
         <url>${scm.url}</url>
-        <tag>karaf-4.4.6-2025.11.19</tag>
+        <tag>karaf-4.4.6-2026.05.04</tag>
     </scm>
 
     <distributionManagement>
@@ -370,7 +370,7 @@
         <obrRepository>NONE</obrRepository>
 
         <karaf.project.version>4.4.6</karaf.project.version>
-        <pentaho-apache-karaf.version>4.4.6-2025.11.19</pentaho-apache-karaf.version>
+        <pentaho-apache-karaf.version>4.4.6-2026.05.04</pentaho-apache-karaf.version>
         <jetty.version>9.4.57.v20241219</jetty.version>
     </properties>
 
