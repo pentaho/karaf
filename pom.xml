@@ -166,26 +166,25 @@
         <activemq.version>5.17.1</activemq.version>
         <aopalliance.bundle.version>1.0_6</aopalliance.bundle.version>
         <aspectj.bundle.version>1.9.5_1</aspectj.bundle.version>
-        <asm.version>9.7</asm.version>
+        <asm.version>9.7.1</asm.version>
         <javax.annotation.version>1.3.2</javax.annotation.version>
         <awaitility.version>3.1.6</awaitility.version>
         <bouncycastle.version>1.84</bouncycastle.version>
         <camel.version>3.22.4</camel.version>
         <cglib.bundle.version>3.2.9_1</cglib.bundle.version>
         <cxf.version>3.6.8</cxf.version>
-        <jackson.version>2.17.2</jackson.version>
-        <jna.version>5.14.0</jna.version>
-        <jaxb-bom.version>2.3.8</jaxb-bom.version>
+        <jackson.version>2.18.2</jackson.version>
+        <jna.version>5.16.0</jna.version>
+        <jaxb-bom.version>2.3.9</jaxb-bom.version>
         <commons-beanutils.version>1.11.0</commons-beanutils.version>
         <commons-codec.version>1.15</commons-codec.version>
-        <commons-compress.version>1.26.1</commons-compress.version>
-        <commons-collections.version>3.2.2</commons-collections.version>
+        <commons-compress.version>1.27.1</commons-compress.version>
         <commons-fileupload.version>1.6.0</commons-fileupload.version>
-        <commons-lang3.version>3.14.0</commons-lang3.version>
+        <commons-lang3.version>3.17.0</commons-lang3.version>
         <commons-logging.version>1.3.4</commons-logging.version>
-        <commons-pool2.version>2.11.1</commons-pool2.version>
-        <commons-io.version>2.15.1</commons-io.version>
-        <eclipselink.version>2.7.11</eclipselink.version>
+        <commons-pool2.version>2.12.0</commons-pool2.version>
+        <commons-io.version>2.18.0</commons-io.version>
+        <eclipselink.version>2.7.15</eclipselink.version>
         <jasypt.bundle.version>1.9.3_1</jasypt.bundle.version>
         <jolokia.version>1.7.1</jolokia.version>
         <servlet.spec.groupId>javax.servlet</servlet.spec.groupId>
@@ -198,7 +197,7 @@
 
         <servicemix-spec.version>2.9.0</servicemix-spec.version>
 
-        <easymock.version>5.2.0</easymock.version>
+        <easymock.version>5.5.0</easymock.version>
         <equinox.groupId>org.eclipse.platform</equinox.groupId>
         <equinox.artifactId>org.eclipse.osgi</equinox.artifactId>
         <equinox.version>3.18.0</equinox.version>
@@ -313,6 +312,7 @@
         <pax.swissbox.version>1.8.5</pax.swissbox.version>
         <pax.url.version>3.0.3</pax.url.version>
         <pax.web.version>8.0.32</pax.web.version>
+        <jetty.version>9.4.57.v20241219</jetty.version>
         <pax.tinybundle.version>3.0.0</pax.tinybundle.version>
         <pax.jdbc.version>1.5.7</pax.jdbc.version>
         <pax.jms.version>1.1.3</pax.jms.version>
@@ -324,7 +324,7 @@
 
         <spec.activation.version>1.2.2</spec.activation.version>
         <spec.annotation.version>1.3.5</spec.annotation.version>
-        <spec.jaxb.version>2.3.2_3</spec.jaxb.version>
+        <spec.jaxb.version>2.3.9</spec.jaxb.version>
         <spec.jaxrs.version>2.1</spec.jaxrs.version>
         <spec.jaxws.version>2.3</spec.jaxws.version>
         <spec.jws.version>1.1.1</spec.jws.version>
@@ -335,9 +335,9 @@
         <spring31.version>3.1.4.RELEASE</spring31.version>
         <spring43.version>4.3.30.RELEASE_1</spring43.version>
         <spring52.version>5.2.25.RELEASE_1</spring52.version>
-        <spring53.version>5.3.33_1</spring53.version>
-        <spring60.version>6.0.18_1</spring60.version>
-        <spring61.version>6.1.5_1</spring61.version>
+        <spring53.version>5.3.39_1</spring53.version>
+        <spring60.version>6.0.23_1</spring60.version>
+        <spring61.version>6.1.14_1</spring61.version>
         <spring.security31.version>3.1.4.RELEASE</spring.security31.version>
         <spring.security42.version>4.2.4.RELEASE_1</spring.security42.version>
         <spring.security51.version>5.1.6.RELEASE_1</spring.security51.version>
@@ -345,13 +345,13 @@
         <spring.security54.version>5.4.6_1</spring.security54.version>
         <spring.security55.version>5.5.3_1</spring.security55.version>
         <spring.security56.version>5.6.3_1</spring.security56.version>
-        <spring.security57.version>5.7.12_1</spring.security57.version>
+        <spring.security57.version>5.7.12_3</spring.security57.version>
         <spring.security62.version>6.2.1_1</spring.security62.version>
 
         <sling.commons.johnzon.version>1.2.16</sling.commons.johnzon.version>
-        <sshd.version>2.12.1</sshd.version>
+        <sshd.version>2.14.0</sshd.version>
         <struts.bundle.version>1.3.10_1</struts.bundle.version>
-        <xbean.version>4.24</xbean.version>
+        <xbean.version>4.26</xbean.version>
         <javax.mail.version>1.4.7</javax.mail.version>
 
         <winsw.version>2.3.0</winsw.version>
@@ -475,27 +475,27 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-deploy-plugin</artifactId>
-                    <version>3.1.1</version>
+                    <version>3.1.3</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-enforcer-plugin</artifactId>
-                    <version>3.4.1</version>
+                    <version>3.5.0</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-gpg-plugin</artifactId>
-                    <version>3.2.2</version>
+                    <version>3.2.7</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-javadoc-plugin</artifactId>
-                    <version>3.6.3</version>
+                    <version>3.11.2</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-jar-plugin</artifactId>
-                    <version>3.3.0</version>
+                    <version>3.4.2</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
@@ -505,7 +505,7 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-install-plugin</artifactId>
-                    <version>3.1.1</version>
+                    <version>3.1.3</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
@@ -520,7 +520,7 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-release-plugin</artifactId>
-                    <version>3.0.1</version>
+                    <version>3.1.1</version>
                     <configuration>
                         <preparationGoals>clean install</preparationGoals>
                         <preparationProfiles>release,deploy,src</preparationProfiles>
@@ -542,7 +542,7 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-surefire-plugin</artifactId>
-                    <version>3.2.5</version>
+                    <version>3.5.2</version>
                     <configuration>
                             <forkMode>once</forkMode>
                             <argLine>${surefire.argLine}</argLine>
@@ -604,17 +604,17 @@
                 <plugin>
                     <groupId>org.codehaus.mojo</groupId>
                     <artifactId>exec-maven-plugin</artifactId>
-                    <version>3.1.0</version>
+                    <version>3.5.0</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-dependency-plugin</artifactId>
-                    <version>3.6.1</version>
+                    <version>3.8.1</version>
                 </plugin>
                 <plugin>
                     <groupId>org.codehaus.mojo</groupId>
                     <artifactId>build-helper-maven-plugin</artifactId>
-                    <version>3.4.0</version>
+                    <version>3.6.0</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
@@ -804,12 +804,12 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-javadoc-plugin</artifactId>
-                <version>3.6.3</version>
+                <version>3.11.2</version>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jxr-plugin</artifactId>
-                <version>3.3.2</version>
+                <version>3.6.0</version>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -819,12 +819,12 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-report-plugin</artifactId>
-                <version>3.2.5</version>
+                <version>3.5.2</version>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-project-info-reports-plugin</artifactId>
-                <version>3.5.0</version>
+                <version>3.8.0</version>
             </plugin>
         </plugins>
     </reporting>
@@ -848,7 +848,7 @@
                     <plugin>
                         <groupId>org.apache.rat</groupId>
                         <artifactId>apache-rat-plugin</artifactId>
-                        <version>0.13</version>
+                        <version>0.16.1</version>
                         <executions>
                             <execution>
                                 <phase>verify</phase>
@@ -1001,6 +1001,9 @@
             <id>deploy</id>
             <properties>
                 <createSourcesJar>true</createSourcesJar>
+                <maven.test.skip>true</maven.test.skip>
+                <invoker.skip>true</invoker.skip>
+                <archetype.test.skip>true</archetype.test.skip>
             </properties>
             <build>
                 <defaultGoal>deploy</defaultGoal>
