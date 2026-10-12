@@ -40,7 +40,7 @@ Version | Date | Changes
 4.4.6-2026.05.27 | 5/27/2026 | Upgraded woodstox-core to 6.4.0 ([PPP-6501](https://pentaho-eng.atlassian.net/browse/PPP-6501))
 4.4.6-2026.06.30 | 6/30/2026 | Upgraded jline to 3.30.14 ([PPP-6680](https://pentaho-eng.atlassian.net/browse/PPP-6680)) and pax-url-aether to 3.0.3 ([PPP-6340](https://pentaho-eng.atlassian.net/browse/PPP-6340))
 4.4.6-2026.07.06 | 7/06/2026 | Upgraded jline to 3.30.15 (still [PPP-6680](https://pentaho-eng.atlassian.net/browse/PPP-6680))
-4.4.6-2026.10.12 | 10/12/2026 | Upgraded sshd to 2.20.0 (still [PPP-7074](https://pentaho-eng.atlassian.net/browse/PPP-7074))
+4.4.6-2026.10.12 | 10/12/2026 | Upgraded sshd to 2.20.0 ([PPP-7074](https://pentaho-eng.atlassian.net/browse/PPP-7074))
 
 
 ## Vulnerabilities addressed by Pentaho after the fork:
