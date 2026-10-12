@@ -24,7 +24,7 @@
     <parent>
         <groupId>org.hitachivantara.karaf.tooling</groupId>
         <artifactId>tooling</artifactId>
-        <version>4.4.6-2026.07.06</version>
+        <version>4.4.6-2026.10.12</version>
     </parent>
 
     <artifactId>org.apache.karaf.tools.utils</artifactId>
